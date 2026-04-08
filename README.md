@@ -2,7 +2,6 @@
 
 📌 Project Overview
 
-Early detection of cancer can significantly improve treatment outcomes.
 This project focuses on predicting whether a tumor is **benign** or **malignant** using machine learning techniques.
 
 A classification model is built using Logistic Regression, which analyzes tumor features and predicts the diagnosis.
